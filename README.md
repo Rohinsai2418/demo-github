@@ -1,2 +1,2 @@
 # demo-github
-These is my demo
+This is my demo.
